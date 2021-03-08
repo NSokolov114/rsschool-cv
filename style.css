@@ -4,16 +4,15 @@ body {
   background-color: cornsilk;
 }
 
+a {
+  color: #000;
+  text-decoration: underline;
+}
+
 .nav {
   list-style: none;
   height: 50px;
   background-color: cornsilk;
-  
-}
-
-a {
-  color: #000;
-  text-decoration: underline;
 }
 
 .container {
