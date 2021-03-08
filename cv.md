@@ -1,28 +1,33 @@
-## **Sokolov Nikolay**
-## **FRONT-END DEVELOPER (REACT)**
-### *Moscow, Russia*
+# **Sokolov Nikolay**
+# **FRONT-END DEVELOPER (REACT)**
+## *Moscow, Russia*
 
-### **CONTACTS**
+
+## **CONTACTS**
 sokoloff114@gmail.com || +79777237886
 
-### **ABOUT ME**
+
+## **ABOUT ME**
 ex Gazprom research scientist turned to web development
 
-### **SKILLS**
+
+## **SKILLS**
 * HTML, CSS, JS
 * React + Hooks + Redux
 * Basics of Node.js + Express.js
 * MySQL, PostgreSQL
 * Figma, Git, Bash, Linux, NPM
 
-### **PROJECTS**
+
+## **PROJECTS**
 * #1 (CSS heavy)
 * #2 (JS heavy)
 * #3 (React 1)
 * #4 (React 2)
 * [#5 (something cool-looking)](https://nsokolov114.github.io/test-landing-page/)
 
-### **CODE**
+
+## **CODE**
 ```
 function distinct(a) {
   var newArr = [];
@@ -44,10 +49,9 @@ function removeEveryOther(arr){
 }
 ```
 
-### **WORK EXPERIENCE**
-#### **Research Scientist**
-#### *Dec 2015 - March 2021*
-#### **Gazprom VNIIGAZ, LLC, Moscow**
+
+## **WORK EXPERIENCE**
+### (*2015-2021*) **Research Scientist** at **Gazprom VNIIGAZ, LLC, Moscow**
 
 Pipes & fittings 
 * Technical auditing of pipe fittings factories
@@ -58,18 +62,16 @@ Pipes & fittings
 * Various research tasks
 * Writing reports, drawing blueprints, making presentations, etc.
 
-#### **Transator** *(half-time)*
-#### *Aug 2013 - Aug 2015*
+### (*2013-2015*) **Transator** *(half-time)*
 
 EN to RU, automobile industry
 
-### **EDUCATION**
-#### **Master in Mechanical Engineering**, Material Science and Technology of New Materials
-#### *2009-2015*
-#### **Moscow Bauman State Technical University**, Moscow
+
+## **EDUCATION**
+### (*2009-2015*) **MsME: Material Science** at **[BMSTU, Moscow](https://en.wikipedia.org/wiki/Bauman_Moscow_State_Technical_University)**
 
 
-### **Languages**
+## **Languages**
 * **Russian** — Native
 * **English** — IELTS 8.0 (C1/C2) — Proficiency
 Worked as a translator for 2 years, since 2019 I've been volunteering as a Russian Language Coordinator at Coursera.org (managing translators, that make Russian subs for English courses)
